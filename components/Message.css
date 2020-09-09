@@ -1,0 +1,15 @@
+
+.message {
+    background-color: #2980b9;
+	color: #fff;
+	margin-bottom: 1px;
+	padding: 8px 14px;
+	font-size: 12px;
+	border-radius: 13px;
+    height: auto;
+    margin-right: 3px;
+    margin-top: 2px;
+    max-width: 150px;
+    word-wrap: break-word !important;
+    word-break: break-all !important;
+}
